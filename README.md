@@ -1,6 +1,6 @@
 -  Hi, I’m Zfronk
--  I’m interested in C#
--  I’m currently learning programming
+-  I’m interested in programming
+
 
 <!---
 zfronk/zfronk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
