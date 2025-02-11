@@ -1,5 +1,5 @@
 -  Hi, I’m Zfronk
--  I’m interested in programming
+-  A programmer.
 
 
 <!---
