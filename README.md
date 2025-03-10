@@ -1,5 +1,5 @@
--  Hi, I’m Zfronk
--  A Programmer
+-  Hello, I’m Zfronk
+-  Into Programming
 
 
 <!---
