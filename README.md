@@ -28,5 +28,3 @@ Check out my repositories to see what I’m experimenting with!
 ---
 
 💡 **"Understanding a system means knowing how to break it—and how to fix it."**  
-
---->
