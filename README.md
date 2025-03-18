@@ -36,8 +36,7 @@ Check out my repositories for more!
 ## 📊 **GitHub Stats**  
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=zfronk&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zfronk&layout=compact&langs_count=6&theme=tokyonight)  
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=zfronk&theme=tokyonight)
+![Metrics](https://github.com/zfronk/github-metrics/blob/main/github-metrics.svg)
 
 
 ---
