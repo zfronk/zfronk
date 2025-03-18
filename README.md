@@ -1,7 +1,3 @@
-Here’s your README with a **different GitHub stats provider** (Lowlighter’s GitHub Stats), keeping your **bold, hacker-builder persona** intact:  
-
----
-
 <!-- Dark Theme Badge -->
 ![Dark Mode](https://img.shields.io/badge/MODE-DARK-%23000000?style=for-the-badge&logo=github)
 
