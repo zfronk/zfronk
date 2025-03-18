@@ -1,48 +1,38 @@
----
-
 <!-- Dark Theme Badge -->
 ![Dark Mode](https://img.shields.io/badge/MODE-DARK-%23000000?style=for-the-badge&logo=github)
 
-# 👋 Hey, I'm zfronk  
+# 🛠️ zfronk  
 
-🔹 **Cybersecurity & Low-Level Systems Enthusiast**  
-🔹 **Networking | Systems Programming | Security Research**  
+🔍 **Exploring Systems, Security & Networking**  
 
-I enjoy **building, breaking, and understanding systems**—from network protocols to memory management.  
+Curious about how things work under the hood. Always building, always learning.  
 
 ---
 
-## 🚀 **Current Focus**  
-- 🕸 **Networking & Sockets** – Learning how data flows at a low level.  
-- ⚙️ **Systems Programming in C** – Exploring OS internals and memory allocation.  
-- 🔍 **Web Scraping & Data Parsing** – Extracting structured information.  
+## ⚡ **What I'm Working On**  
+- 🕸 **Networking & Sockets** – Understanding communication at the lowest level.  
+- ⚙️ **Systems Programming in C** – Diving deep into memory, processes, and system calls.  
+- 🌐 **Web Scraping & Data Parsing** – Extracting and structuring information efficiently.  
 
 ---
 
 ## 🛠 **Tech Stack**  
-- 💻 **Languages:** C, Python, C# (exploring JavaScript)  
-- 🖥 **OS:** Linux (preferred), Windows  
-- 📡 **Networking:** TCP/IP, HTTP, raw sockets  
-- 🛠 **Tools:** Nmap, Netcat, Wireshark, Burp Suite  
+💻 **Languages:** C, C#, Python, JavaScript  
+🖥 **OS:** Linux (Mint), Windows  
+📡 **Networking:** TCP/IP, HTTP, raw sockets  
 
 ---
 
 ## 📂 **Projects & Learning**  
-I work on hands-on projects to apply and refine my knowledge.  
-Check out my repositories for more!  
+I build projects to reinforce concepts—check out my repos for experiments in **networking, security, and automation.**  
 
 ---
 
 ## 📊 **GitHub Stats**  
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=zfronk&theme=tokyonight)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zfronk&show_icons=true&theme=tokyonight)
-
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zfronk&show_icons=true&theme=dark&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zfronk&layout=compact&theme=dark&hide_border=true)  
 
 ---
 
-💡 **"To master something, take it apart and rebuild it."**  
-
----
-
+💡 *"Break things, understand them, and build better ones."*  
