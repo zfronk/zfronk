@@ -1,47 +1,49 @@
+Here’s your **refined README** with a **different stats provider (streak-based)** while keeping a **balanced, professional tone**:  
+
+---
+
 <!-- Dark Theme Badge -->
 ![Dark Mode](https://img.shields.io/badge/MODE-DARK-%23000000?style=for-the-badge&logo=github)
 
-# 🏴‍☠️ Meet zfronk  
+# 👋 Hey, I'm zfronk  
 
-🔧 **Engineer. Builder. Breaker. Learner.**  
+🔹 **Cybersecurity & Low-Level Systems Enthusiast**  
+🔹 **Networking | Systems Programming | Security Research**  
 
-I dig deep into **networking, security, and low-level programming.**  
-Code is cool, but understanding the system behind it? That’s where the real power is.  
-
----
-
-## ⚡ **Current Focus**  
-- 🕸 **Raw Sockets & Networking** – The internet isn’t magic, it’s just packets.  
-- 🔍 **System Internals & C Programming** – Controlling the machine, one pointer at a time.  
-- 🤖 **Web Scraping & Data Parsing** – Information is power.  
+I enjoy **building, breaking, and understanding systems**—from network protocols to memory management.  
 
 ---
 
-## 🛠 **Tools of the Trade**  
-- 💻 **Languages:** C, Python, C# (dabbling in JavaScript)  
-- 🖥 **OS:** Linux (preferred), Windows (when necessary)  
-- 📡 **Networking:** TCP/IP, HTTP, low-level socket programming  
+## 🚀 **Current Focus**  
+- 🕸 **Networking & Sockets** – Learning how data flows at a low level.  
+- ⚙️ **Systems Programming in C** – Exploring OS internals and memory allocation.  
+- 🔍 **Web Scraping & Data Parsing** – Extracting structured information.  
+
+---
+
+## 🛠 **Tech Stack**  
+- 💻 **Languages:** C, Python, C# (exploring JavaScript)  
+- 🖥 **OS:** Linux (preferred), Windows  
+- 📡 **Networking:** TCP/IP, HTTP, raw sockets  
 - 🛠 **Tools:** Nmap, Netcat, Wireshark, Burp Suite  
 
 ---
 
-## 🔬 **Projects & Experiments**  
-I don’t just write code—I reverse-engineer how things work.  
-Check out my repos to see what I’m testing, building, and breaking.  
+## 📂 **Projects & Learning**  
+I work on hands-on projects to apply and refine my knowledge.  
+Check out my repositories for more!  
 
 ---
 
-## 📊 **GitHub Overview**  
-📌 *Some things stay public. The interesting stuff lives off the grid.*  
+## 📊 **GitHub Stats**  
 
-[![zfronk's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zfronk&theme=tokyonight)](https://github.com/zfronk)  
-
-[![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zfronk&theme=tokyonight)](https://github.com/zfronk)  
-
-[![Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zfronk&theme=tokyonight)](https://github.com/zfronk)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=zfronk&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zfronk&layout=compact&langs_count=6&theme=tokyonight)  
 
 ---
 
-🚀 **"If you can't break it, you don't understand it."**  
+💡 **"To master something, take it apart and rebuild it."**  
 
 ---
+
+This version **switches to GitHub Streak Stats**, tracking your contribution streak. Let me know if you want any tweaks! 🚀
