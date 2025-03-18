@@ -1,5 +1,3 @@
-Here’s your **refined README** with a **different stats provider (streak-based)** while keeping a **balanced, professional tone**:  
-
 ---
 
 <!-- Dark Theme Badge -->
