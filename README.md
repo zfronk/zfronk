@@ -45,5 +45,3 @@ Check out my repos to see what I’m testing, building, and breaking.
 🚀 **"If you can't break it, you don't understand it."**  
 
 ---
-
-This setup uses **Lowlighter’s GitHub Stats**, which updates more dynamically. Let me know if you want tweaks! 🚀
