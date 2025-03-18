@@ -46,4 +46,3 @@ Check out my repositories for more!
 
 ---
 
-This version **switches to GitHub Streak Stats**, tracking your contribution streak. Let me know if you want any tweaks! 🚀
