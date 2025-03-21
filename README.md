@@ -30,8 +30,7 @@ I build projects to reinforce concepts—check out my repos for experiments in *
 
 ## 📊 **GitHub Stats**  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zfronk&show_icons=true&theme=dark&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zfronk&layout=compact&theme=dark&hide_border=true)  
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zfronk&theme=dark)
 
 ---
 
