@@ -30,7 +30,7 @@ I build projects to reinforce concepts—check out my repos for experiments in *
 
 ## 📊 **GitHub Stats**  
 
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zfronk&theme=dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zfronk)](https://github.com/zfronk/github-readme-stats)
 
 ---
 
