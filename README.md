@@ -29,8 +29,11 @@ I build projects to reinforce concepts—check out my repos for experiments in *
 ---
 
 ## 📊 **GitHub Stats**  
+## 🚀 My GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zfronk)](https://github.com/zfronk/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zfronk&show_icons=true&theme=dark&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zfronk&layout=compact&theme=dark)
 
 ---
 
