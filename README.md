@@ -29,10 +29,13 @@ I build projects to reinforce concepts—check out my repos for experiments in *
 ---
 
 ## 📊 **GitHub Stats**  
-Here’s a graph of my contributions:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zfronk&show_icons=true&theme=dark&count_private=true)
+  
+## 📈 **Top Languages**  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zfronk&layout=compact&theme=dark)
 
+## 📊 **GitHub Contributions Over Time**  
 ![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=zfronk&theme=react-dark)
-
 
 ---
 
