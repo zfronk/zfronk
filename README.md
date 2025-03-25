@@ -31,7 +31,7 @@ I build projects to reinforce concepts—check out my repos for experiments in *
 ## 📊 **GitHub Stats**  
 Here’s a graph of my contributions:
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=zfronk&theme=dark)
+![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=zfronk&theme=react-dark)
 
 
 ---
