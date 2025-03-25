@@ -27,15 +27,9 @@ Curious about how things work under the hood. Always building, always learning.
 I build projects to reinforce concepts—check out my repos for experiments in **networking, security, and automation.**  
 
 ---
-
-## 📊 **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zfronk&show_icons=true&theme=dark&count_private=true)
-
 ## 📈 **Top Languages**  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zfronk&layout=compact&theme=dark)
 
-## 📉 **GitHub Contributions Graph**  
-![GitHub Contributions Graph](https://github-readme-activity-graph.cyclic.app/graph?username=zfronk&theme=react-dark)
 
 ---
 
