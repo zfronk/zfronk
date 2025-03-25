@@ -29,12 +29,12 @@ I build projects to reinforce concepts—check out my repos for experiments in *
 ---
 
 ## 📊 **GitHub Stats**  
-## 🚀 My GitHub Stats
+Here’s a graph of my contributions:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zfronk&show_icons=true&theme=dark&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zfronk&show_icons=true&theme=dark&count_private=true&hide=prs&include_all_commits=true&rank_icon=github)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zfronk&layout=compact&theme=dark)
 
 ---
 
-💡 *"Break things, understand them, and build better ones."*  
+💡 *"Break things, understand them, and build better ones."*
