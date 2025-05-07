@@ -17,7 +17,7 @@ Curious about how things work under the hood. Always experimenting, always learn
 ---
 
 ### 🛠 Tech Stack  
-- **Languages:** C, C#, Python, JavaScript  
+- **Languages:** C, Javascript, C# alumni  
 - **Operating Systems:** Linux (Mint), Windows  
 - **Networking:** TCP/IP, HTTP, raw sockets  
 
