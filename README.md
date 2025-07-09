@@ -1,36 +1,66 @@
-<!-- ⚫ Dark Mode Badge -->
-![Dark Mode](https://img.shields.io/badge/MODE-DARK-%23000000?style=for-the-badge&logo=github)
+# 🛠️ zfronk
 
-# 🛠️ zfronk  
-
-**Exploring Systems, Security & Networking**  
-
-Curious about how things work under the hood. Always experimenting, always learning.  
+> Web App Security | Backend Engineering | Systems Enthusiast  
+> _“Break things, understand them, and build better ones.”_
 
 ---
 
-### 🚀 What I'm Working On  
-- 🕸 **Networking & Sockets** – Understanding communication at the lowest level.  
-- ⚙️ **Systems Programming in C** – Digging into memory, processes, and system calls.  
-- 🌐 **Web Scraping & Data Parsing** – Extracting and organizing data efficiently.  
+### 🔍 About Me
+I'm Steve — a hands-on learner driven by curiosity in how systems work under the hood. I build, break, fix, and secure things. My focus is in:
+
+- 🕷 **Web App Security** – OWASP Top 10, real-world exploitation, red teaming  
+- 🧠 **Backend Development** – Node.js, Express, MongoDB, Auth, API design  
+- ⚙️ **Systems Programming** – Low-level C, file systems, memory, processes  
+- 🌐 **Networking** – TCP/IP, HTTP, custom tools, sockets, fuzzing
 
 ---
 
-### 🛠 Tech Stack  
-- **Languages:** C, Javascript, C# alumni  
-- **Operating Systems:** Linux (Mint), Windows  
-- **Networking:** TCP/IP, HTTP, raw sockets  
+### 🚧 Currently Building
+
+- 🔐 `Safe_Zone` – Secure Node.js backend from scratch w/ JWT, cookies, validation  
+- 🕸 `Old Wounds` – Anon message-sharing app (auth, journaling, emotional UX)  
+- 💬 `NodeBuddies` – Community journaling space with real-time support  
+- 📩 Email bot – Node.js-based SMTP bot for sending custom messages
 
 ---
 
-### 📂 Projects & Learning  
-I build projects to reinforce concepts—check out my repos for hands-on experiments in **networking, security, and automation.**  
+### 🧰 Tools & Stack
+
+**Languages**:  
+`C`, `JavaScript`, `Bash`, `HTML/CSS`, (Past: C#)
+
+**Frameworks**:  
+`Node.js`, `Express.js`, `MongoDB (Mongoose)`, `EJS`, `Nodemailer`
+
+**Security Focus**:  
+`Burp Suite`, `ffuf`, `dirsearch`, `OWASP ZAP`, `JWT fuzzing`, `Manual testing`
+
+**Environments**:  
+`Linux Mint`, `Windows`, `Terminal-based workflows`, `VS Code`, `Micro`
 
 ---
 
-### 📈 Most Used Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zfronk&layout=compact&theme=dark)
+### 📂 Projects & Learning
+
+I learn by building — every repo here is either a tool, experiment, or a playground to push limits in security, automation, or system control.
+
+Check out my repositories for:
+
+- ✅ Full-stack projects (auth, sessions, cookies, APIs)
+- 🔍 Web security experiments (SSRF, IDOR, fuzzing)
+- 🛠 Custom CLI tools in C & JavaScript
 
 ---
 
-💡 *"Break things, understand them, and build better ones."*  
+### 🧠 Goals
+
+- 🎯 Become a Web App Security Engineer  
+- 📜 Earn certs: `eWPT`, `PNPT`, then `OSWE`  
+- 🔧 Build my own custom C2 and web fuzzer  
+- 🧪 Create a personal AI chatbot trained on my own data/emotions  
+
+---
+
+> 💡 Always questioning. Always improving. Always hacking.
+
+🕶️ `zfronk` – Systems & Security in motion.
