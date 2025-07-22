@@ -1,66 +1,55 @@
-# 🛠️ zfronk
+# zfronk
 
-> Web App Security | Backend Engineering | Systems Enthusiast  
-> _“Break things, understand them, and build better ones.”_
-
----
-
-### 🔍 About Me
-I'm Steve — a hands-on learner driven by curiosity in how systems work under the hood. I build, break, fix, and secure things. My focus is in:
-
-- 🕷 **Web App Security** – OWASP Top 10, real-world exploitation, red teaming  
-- 🧠 **Backend Development** – Node.js, Express, MongoDB, Auth, API design  
-- ⚙️ **Systems Programming** – Low-level C, file systems, memory, processes  
-- 🌐 **Networking** – TCP/IP, HTTP, custom tools, sockets, fuzzing
+> Web App Security Learner | Backend Developer | Systems Enthusiast
+> *“Break things, understand them, and build better ones.”*
 
 ---
 
-### 🚧 Currently Building
+### About Me
 
-- 🔐 `Safe_Zone` – Secure Node.js backend from scratch w/ JWT, cookies, validation  
-- 🕸 `Old Wounds` – Anon message-sharing app (auth, journaling, emotional UX)  
-- 💬 `NodeBuddies` – Community journaling space with real-time support  
-- 📩 Email bot – Node.js-based SMTP bot for sending custom messages
+Hey, I’m Steve. I like understanding how systems really work not just at the surface, but deep down. I’m into breaking things just to learn how to fix and improve them. Right now, I’m sharpening my skills in:
 
----
-
-### 🧰 Tools & Stack
-
-**Languages**:  
-`C`, `JavaScript`, `Bash`, `HTML/CSS`, (Past: C#)
-
-**Frameworks**:  
-`Node.js`, `Express.js`, `MongoDB (Mongoose)`, `EJS`, `Nodemailer`
-
-**Security Focus**:  
-`Burp Suite`, `ffuf`, `dirsearch`, `OWASP ZAP`, `JWT fuzzing`, `Manual testing`
-
-**Environments**:  
-`Linux Mint`, `Windows`, `Terminal-based workflows`, `VS Code`, `Micro`
+* Web App Security – OWASP Top 10, real-world vulnerabilities, red team mindset
+* Backend Development – Node.js, Express, MongoDB, JWTs, cookies, API design
+* Systems Programming – Writing low-level tools in C, messing with memory and files
+* Networking Basics – Protocols like HTTP & TCP/IP, simple fuzzers, building from scratch
 
 ---
 
-### 📂 Projects & Learning
+### What I'm Building
 
-I learn by building — every repo here is either a tool, experiment, or a playground to push limits in security, automation, or system control.
-
-Check out my repositories for:
-
-- ✅ Full-stack projects (auth, sessions, cookies, APIs)
-- 🔍 Web security experiments (SSRF, IDOR, fuzzing)
-- 🛠 Custom CLI tools in C & JavaScript
+* NodeBuddies – A journaling app with user auth, session handling, and a focus on anonymous support. All backend logic is custom-built in Node.js.
 
 ---
 
-### 🧠 Goals
+### Tools I Use
 
-- 🎯 Become a Web App Security Engineer  
-- 📜 Earn certs: `eWPT`, `PNPT`, then `OSWE`  
-- 🔧 Build my own custom C2 and web fuzzer  
-- 🧪 Create a personal AI chatbot trained on my own data/emotions  
+**Languages:** `C`, `JavaScript`, `Bash`, `HTML/CSS`
+**Stack:** `Node.js`, `Express`, `MongoDB`, `EJS`
+**Security:** Learning `Burp Suite`, using `ZAP`, `ffuf`, `dirsearch`, and writing small scripts
+**Environment:** Daily driver is `Linux Mint`, work in terminal, use `Micro`, `VS Code`, and Git
 
 ---
 
-> 💡 Always questioning. Always improving. Always hacking.
+### Projects = My Learning Process
 
-🕶️ `zfronk` – Systems & Security in motion.
+I build small tools and apps to understand things better from system calls in C to full-stack login flows. Most of my repos are experiments, not finished products. You’ll find:
+
+* Auth systems with sessions and tokens
+* Web app security testing playgrounds
+* Simple C programs for file access, memory, and user input
+
+---
+
+### What I’m Aiming For
+
+* Get into real-world Web App Security work
+* Learn Burp Suite properly and dive into bug bounty practice
+* Work towards certifications: `eWPT`, `PNPT`, and eventually `OSWE`
+* Build a basic chatbot trained on my own thoughts and emotions
+
+---
+
+> Always learning, always questioning. Sometimes breaking things — always with a purpose.
+
+`zfronk` chasing that sweet spot between code and security, one line at a time.
