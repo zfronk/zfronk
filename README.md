@@ -25,7 +25,7 @@ Hey, I’m Steve. I like understanding how systems really work not just at the s
 ### Tools I Use
 
 **Languages:** `C`, `JavaScript`, `Bash`, `HTML/CSS`
-**Stack:** `Node.js`, `Express`, `MongoDB`, `EJS`
+**Stack:** `Node.js`, `Express`, `MongoDB`
 **Security:** Learning `Burp Suite`, using `ZAP`, `ffuf`, `dirsearch`, and writing small scripts
 **Environment:** Daily driver is `Linux Mint`, work in terminal, use `Micro`, `VS Code`, and Git
 
