@@ -1,6 +1,6 @@
 # zfronk
 
-> Web App Security Learner | Backend Developer | Systems Enthusiast
+> Aspiring IT Support specialist | Linux | Insurance Major
 > *“Break things, understand them, and build better ones.”*
 
 ---
@@ -24,9 +24,8 @@ Hey, I’m Steve. I like understanding how systems really work not just at the s
 
 ### Tools I Use
 
-**Languages:** `C`, `JavaScript`, `Bash`, `HTML/CSS`
+**Languages:** `C (Foundational)`, `C# (Before)`, `Python (Before)`, `JavaScript`, `Bash`, `HTML/CSS`
 **Stack:** `Node.js`, `Express`, `MongoDB`
-**Security:** Learning `Burp Suite`, using `ZAP`, `ffuf`, `dirsearch`, and writing small scripts
 **Environment:** Daily driver is `Linux Mint`, work in terminal, use `Micro`, `VS Code`, and Git
 
 ---
@@ -42,14 +41,7 @@ I build small tools and apps to understand things better from system calls in C 
 ---
 
 ### What I’m Aiming For
-
-* Get into real-world Web App Security work
-* Learn Burp Suite properly and dive into bug bounty practice
-* Work towards certifications: `eWPT`, `PNPT`, and eventually `OSWE`
-* Build a basic chatbot trained on my own thoughts and emotions
+* Get IT Certified for IT Support role
 
 ---
-
-> Always learning, always questioning. Sometimes breaking things — always with a purpose.
-
-`zfronk` chasing that sweet spot between code and security, one line at a time.
+`zfronk` Transitioning into Tech
