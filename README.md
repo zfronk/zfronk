@@ -1,14 +1,13 @@
 # zfronk
 
 > Aspiring IT Support specialist | Linux | Insurance Major
-> *“Break things, understand them, and build better ones.”*
 
 ---
 
 ### About Me
 
 Hey, I’m Steve. I like understanding how systems really work not just at the surface, but deep down. I’m into breaking things just to learn how to fix and improve them. Right now, I’m sharpening my skills in:
-
+* IT infrastrature understanding
 * Web App Security – OWASP Top 10, real-world vulnerabilities, red team mindset
 * Backend Development – Node.js, Express, MongoDB, JWTs, cookies, API design
 * Systems Programming – Writing low-level tools in C, messing with memory and files
