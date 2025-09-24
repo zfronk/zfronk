@@ -12,5 +12,3 @@ Right now, I’m working toward starting out in IT Support, where I can use what
 ### What I’m Aiming For
 * Get IT Certified for IT Support role
 
----
-`zfronk` Transitioning into Tech
