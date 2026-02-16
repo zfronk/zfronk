@@ -1,6 +1,6 @@
 # zfronk
 
-> IT Support specialist | Linux | Insurance Major
+> IT Support Technician | Web Developer | Insurance Major
 
 ---
 
