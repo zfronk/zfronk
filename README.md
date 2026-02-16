@@ -1,6 +1,6 @@
 # zfronk
 
-> IT Support Technician | Web Developer | Web security Reeearcher | Insurance Major
+> IT Support Technician | Web Developer | Web security Researcher | Insurance Major
 
 ---
 
