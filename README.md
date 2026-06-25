@@ -1,14 +1,25 @@
-# zfronk
+# 5cr4ppyz
 
-> IT Support Technician | Web Developer | Web security Researcher | Insurance Major
+> Insurance Major @ TUK | Aspiring SysAdmin | Node.js Developer
 
----
-
-### About Me
-I’ve always enjoyed working with computers and figuring out how things work. Over time, that interest pushed me into learning more about IT, networks, and even building small web apps on my own. I like troubleshooting, finding solutions, and picking up new skills as I go.
-
-Right now, I’m working toward starting out in IT Support, where I can use what I know, keep learning on the job, and grow into a reliable IT professional.
-
-### What I’m Aiming For
-* Get IT Certified for IT Support role
-
+```javascript
+const dev = {
+  alias: "zfronk",
+  focus: ["InsurTech", "Systems Administration", "InfoSec"],
+  tools: ["Linux Mint", "Node.js", "Bash", "JavaScript"],
+  status: "Building a home server & mastering the CLI"
+};
+0x01: Current_Focus
+🎓 Major: B.Com Insurance @ The Technical University of Kenya.
+📜 Certs: Google IT Support Professional (In Progress).
+🛠️ Homelab: Configuring a private home server for automation and security research.
+0x02: Tech_Stack
+Languages: Node.js, JavaScript, Shell (Learning Bash/Ruby).
+Security: InfoSec foundations via TryHackMe & Cisco NetAcad.
+Environment: Linux (Mint), Neovim, Bash.
+0x03: Projects
+Media-Automation: Node.js utility for automated media workflows using yt-dlp.
+HomeServer-Configs: Personal server setup and security hardening logs.
+Connect:
+LinkedIn / Email / GitHub
+$ logout _
