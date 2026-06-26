@@ -19,11 +19,7 @@ of solving complex system and network puzzles.
 - Hardware Lab: Ubuntu Server node (HP Elitebook) + Client node (HP Evolve).
 - Google IT Support: Professional certification in progress.
 
-### Philosophy
-Bridging the gap between Insurance Risk Management and Systems Reliability.
-Leveraging technical purpose to build a high-leverage infrastructure skill set.
-
 ---
-$ status: Junior System Administrator
-$ uptime: 2 years_self_taught
-$ location: /home/5cr4ppyz
+- $ status: Junior System Administrator
+- $ uptime: 2 years_self_taught
+- $ location: /home/5cr4ppyz
