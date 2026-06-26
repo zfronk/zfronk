@@ -1,6 +1,6 @@
 # 5cr4ppyz
 
-> Insurance Student | Aspiring Systems Administrator
+> Insurance Major | Junior Systems Administrator
 
 ### Profile
 Two years of self-taught technical exploration. Transitioned from software 
