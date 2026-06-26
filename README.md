@@ -19,5 +19,4 @@ of solving complex system and network puzzles.
 - Hardware Lab: Ubuntu Server node (HP Elitebook) + Client node (HP Evolve).
 - Google IT Support: Professional certification in progress.
 
-> status: Junior System Administrator
-> uptime: 2 years_self_taught
+> status: Junior System Administrator | > uptime: 2 years_self_taught
