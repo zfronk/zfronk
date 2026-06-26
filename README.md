@@ -1,27 +1,29 @@
 # 5cr4ppyz
 
-> Insurance Major | Junior Systems Administrator
+Insurance Major | Junior System Administrator
 
-### Profile
-Two years of self-taught technical exploration. Transitioned from software 
-development (C, Node.js, Python) to a dedicated focus on systems infrastructure 
-and automation. Driven by the "Aha!" moment of solving complex network logic.
+// PROFILE
+Two years of technical discipline. Bridging the gap between Insurance 
+Risk Management and Systems Infrastructure. I specialize in Linux 
+environments, server automation, and the "Aha!" moment of a 
+perfectly executed bash script.
 
-### Core Stack
-- OS: Ubuntu Server, Linux (CLI)
-- Scripting: Bash (Primary), C, GDScript
+// CORE_STACK
+- Systems: Ubuntu Server, Bash Scripting, Linux CLI
 - Networking: SSH, Netplan, Tailscale, Ventoy
+- Languages: C, Node.js, Python, GDScript
 - Security: Cisco Cybersec, Microsoft Essentials, Anti-Phishing
 
-### Ongoing Projects
-- Media Automation: Self-hosted client-server architecture.
-- Hardware Lab: Ubuntu Server node (HP Elitebook) + Client node (HP Evolve).
-- Google IT Support: Professional certification in progress.
+// CURRENT_LAB
+- Google IT Support Professional Certification (In-Progress)
+- Media Automation: Self-hosted client-server architecture
+- Hardware: Ubuntu Server (HP Elitebook) + Client (HP Evolve)
 
-### Philosophy
-Bridging the gap between Insurance Risk Management and Systems Reliability.
-Building "Plan B" into a high-leverage technical skill set.
+// PHILOSOPHY
+If it can be predicted, it’s Insurance. 
+If it can be scripted, it’s Systems.
+Stacking cash through technical purpose.
 
 ---
-$ status: active
-$ location: /home/5cr4ppyz
+$ status: Junior System Administrator
+$ uptime: 2 years_self_taught
